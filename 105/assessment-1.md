@@ -10,4 +10,4 @@ Abstraction tells you that low level languages are the letters and the sounds th
 
 JavaScript was designed to be flexible with values and types, often jumping back and forth between them. Compare some pros and cons of this decision. How might it help you? How might it get in the way?
 
-I feel like
+Because I don't have a language that is my go-to, I'm not entirely sure how I will handle Javascript, but how it is described, it sounds like a language that is difficult for beginners, but once you get used to it, those flexible parts become much more valuable in the long run. For someone who had languages like Python and Java(me) where you would manually change the values and types, Javascript sounds like it would take some time getting used to. For someone new to coding altogether, that flexiblity sounds like a good feature and something to look out for, while I could forget something due to being used to other languages.
