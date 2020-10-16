@@ -1,0 +1,11 @@
+We learned Web Development because it is a standard way to create user interfaces across platforms, but then we learned all of the non-standard aspects that we have to look out for. What does that tell you about building other platform specific user interfaces?
+
+It tells us that when we plan specific user interfaces, there will always be something that we have to look out for. Specific might be in the name of the it, but there are still things to consider, like sizes. This gives us the idea to try to make our user interfaces as open as we can make them. There are always things to pay attention to when you want to do something specific, so it makes us pay attention to what we are setting as the standard or the specific user interface.
+
+Show two examples of CSS Media Queries that use different Media Features. Explain how the user agent will decide to use those rulesets or not.
+
+Two media queries that I could think of are aspect-ratio and scripting. Aspect-ratio sets the width and height for the media-query, and scripting says when Javascript will be used. When aspect-ratio is turned on, depending on the size of the viewport, the size of the object that the aspect-ratio is conditioned with will change whatever the result on screen. Scripting has three types; none, where is no scripting available, initial-only, where there is scripting available when the page loads, and enabled, where you can script. The types will tell you if you can script or not when called.
+
+Do you think it is better to define Breakpoints using standard device sizes or using the specific content on your site? Why?
+
+I think using specific would be better because I feel like it would be easier to spot mistakes from these compared to finding mistakes from a standard. To explain, there might be a standard device, but that doesn't mean that everyone uses that standard, so if I could specify it instead, I'd feel like it would become more accessible for more people. I do believe that doing it specifically would involve more work, but I think that it would be worth it in the end. I think standard sizes have better uses for more simple sites because even if the device sizes are different, there wouldn't be a need for making images disappear to see the main content.
